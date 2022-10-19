@@ -1,7 +1,7 @@
 I'm a software engineer with a deep passion for self-development. My goal is to
 live a meaningful and fulfilling life while constantly refining what it actually
 means to do so, and help as many people as I can who share the same goal as me
-in the process.
+in the process. [Résumé](https://github.com/billfeng/resume)
 
 🇨🇦 English - Native • 🇨🇳 Mandarin - Native • 🇯🇵 Japanese - Intermediate (JLPT N2)
 
