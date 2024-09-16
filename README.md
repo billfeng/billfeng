@@ -1,8 +1,11 @@
-I'm a software engineer with a deep passion for self-development. My goal is to
-live a meaningful and fulfilling life while constantly refining what it actually
-means to do so, and help as many people as I can who share the same goal as me
-in the process. [Résumé](https://github.com/billfeng/resume)
+Chinese Canadian software enginner based in Japan. I'm passionate about:
 
-🇨🇦 English - Native • 🇨🇳 Mandarin - Native • 🇯🇵 Japanese - Intermediate (JLPT N2)
+- Health
+- Self-development
+- Nature & outdoor
 
-[Email](mailto:github@billf.co) • [Instagram](https://www.instagram.com/bill.feng) • [LinkedIn](https://www.linkedin.com/in/fengbill) • [Facebook](https://www.facebook.com/mr.billfeng)
+My goal is to live a meaningful and fulfilling life while constantly refining
+what it actually means to do so, and help as many people as I can who share the
+same goal as me in the process. [Résumé](https://github.com/billfeng/resume)
+
+🇨🇦 English - Native • 🇨🇳 Mandarin - Native • 🇯🇵 Japanese - Advanced (JLPT N1)
